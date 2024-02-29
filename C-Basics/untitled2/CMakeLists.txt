@@ -3,4 +3,4 @@ project(untitled2 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_library(untitled2 STATIC ../library.c)
+add_library(untitled2 STATIC ex02library.c)

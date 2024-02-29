@@ -21,9 +21,9 @@ int main(){
     float item2 = 10.00;
     float item3 = 100.99;
 
-    printf("Item1: $%f", item1);
-    printf("Item 2: $%f", item2);
-    printf("Item 3: $%f", item3);
+    printf("Item 1: $%8.2f", item1);
+    printf("\nItem 2: $%8.2f", item2);
+    printf("\nItem 3: $%8.2f", item3);
 
     return 0;
 }
