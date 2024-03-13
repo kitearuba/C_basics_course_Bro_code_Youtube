@@ -38,3 +38,7 @@ NOT= !
 
 Standard Decimal Numbers    0-9
 Hexadecimal = 0-9 + A-F
+
+
+LOOK UP
+scanf vs strtol
