@@ -30,3 +30,11 @@ Data types:
         //  %1 = minimal filed width
         // %- = left align
 
+LOGICAL OPERATORS
+
+AND= &&
+OR = ||
+NOT= !
+
+Standard Decimal Numbers    0-9
+Hexadecimal = 0-9 + A-F
