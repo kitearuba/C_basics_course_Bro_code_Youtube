@@ -39,6 +39,10 @@ NOT= !
 Standard Decimal Numbers    0-9
 Hexadecimal = 0-9 + A-F
 
+// Clearing the input buffer
+        while ((getchar()) != '\n');
+
+
 
 LOOK UP
 scanf vs strtol

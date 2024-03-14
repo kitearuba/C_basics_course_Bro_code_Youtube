@@ -43,11 +43,16 @@ int main(){
         printBoard();
         printWinner(winner);
 
-        printf("Would you like to play again? (Y/N): ");
-        scanf("%c");
-        scanf()
-    } while ();
+        printf("\nWould you like to play again? (Y/N): ");
+        //scanf("%c");
+        // Clearing the input buffer
+        while ((getchar()) != '\n');
 
+        scanf("%c", &response);
+        response = toupper(response);
+    } while (response == 'Y');
+
+    printf("\nThanks for playing!");
 
 
     return 0;
