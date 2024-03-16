@@ -1,0 +1,34 @@
+BASH
+-Command language interpreter for intertacting with the computer from the command line
+-Known as SHELL, because surrounds the OS kernel to hide intricate details, but allows programmer to do important stuff
+-1989 version most popular
+-present in Mac and most Linux Distros
+
+COMMANDS:
+
+1. pwd  Address of location, full (absolute) path
+2. ls   Can have relative path to check data in that diorectory without being there
+ - ls -la
+3. cd .. one level up
+ - cd or cd~ goes home
+ - pushd /etc  to go straight to anyfolder
+ - popd to get back to last working folder
+4. file followed by file name and gives description of file
+5. locate followed by file name will search system for file name.  Database needs to be updated.
+ - sudo updatedb   to update database
+6. which followed by file name gives you address to the file to check if installed.
+7. history   to get commands history
+8. whatis followed by file name will give brief description of file
+ - apropos followed b y search will give you all files that have that name and their uses
+ - man man  gives you detailed data of command
+9. touch  to create files or update file date
+10. cp ~/.bashrc bashrc  get file from home directory to current directory
+ - cp bashrc bashrc.bak to make backup by adding extension
+11. mv bashrc.bak bashrc to rename a file and overwite over the other one
+ -  mv bashrc and folder name to move to a folder
+12 rm  followed by file name
+ - rm * remove all files from the directory
+ - rm file* removes all files that start with file
+ - rm -r argument to remove everything(files and directories)
+ - rmdir removes directory that are empty
+13. 
