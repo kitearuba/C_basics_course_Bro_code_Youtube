@@ -1,71 +1,86 @@
-# C Programming Exercises Repository
+---
 
-Welcome to my repository! This collection of code is dedicated to the exercises from the free C programming course available on YouTube, created by Bro Code. This course is an excellent resource for anyone looking to learn the basics of C programming.
+# 🖥️ **C Programming Exercises Repository**
 
-## About the Course
+![C Programming](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![YouTube Course](https://img.shields.io/badge/Course-BroCode-red?style=flat-square)
 
-The course can be found on YouTube: [Free C Programming Course by Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=9404s)
+Welcome to my **C Programming Exercises Repository**! This collection of code contains the exercises I completed while following the **Free C Programming Course** by **Bro Code** on YouTube. This course is an excellent resource for anyone who wants to learn the basics of C programming in a fun and engaging way.
 
-The course covers a variety of fundamental topics in C programming, and here are the detailed exercises covered in the course:
+---
 
-### ⭐️Time Stamps⭐️
+## 📚 **About the Course**
 
-1. (00:00:00) C tutorial for beginners 🕹️
-2. (00:12:36) Compile and run a C program with cmd 🏗️ (optional video)
-3. (00:14:35) Comments & escape sequences 💬
-4. (00:19:39) Variables 💰
-5. (00:27:09) Data types 📊
-6. (00:38:16) Format specifiers 🔧
-7. (00:41:31) Constants 🚫
-8. (00:42:43) Arithmetic operators ➗
-9. (00:46:15) Augmented assignment operators 🧮
-10. (00:48:18) User input ⌨️
-11. (00:55:16) Math functions 📚
-12. (00:57:57) Circle circumference program ⚪
-13. (01:00:46) Hypotenuse calculator program 📐
-14. (01:02:40) If statements ✔️
-15. (01:06:46) Switch statements 🔽
-16. (01:10:25) Temperature conversion program 🌡️
-17. (01:17:15) Calculator program 🖩
-18. (01:21:46) AND logical operator &&
-19. (01:25:22) OR logical operator ||
-20. (01:27:22) NOT logical operator !
-21. (01:29:16) Functions 📞
-22. (01:31:53) Arguments 📧
-23. (01:35:46) Return statement 🔙
-24. (01:38:27) Ternary operator ❓
-25. (01:41:20) Function prototypes 🤖
-26. (01:45:57) String functions 🔠
-27. (01:51:00) For loops 🔁
-28. (01:54:22) While loops ♾️
-29. (01:58:12) Do while loop 🤸‍♂️
-30. (02:01:35) Nested loops ➰
-31. (02:06:53) Break vs continue 🥊
-32. (02:09:14) Arrays 🗃️
-33. (02:13:46) Print an array with loop 🔃
-34. (02:18:26) 2D arrays ⬜
-35. (02:25:58) Array of strings 🧵
-36. (02:28:52) Swap values of two variables 🥤
-37. (02:32:45) Sort an array 💱
-38. (02:38:47) Structs 🏠
-39. (02:42:58) Typedef 📛
-40. (02:46:31) Array of structs 🏫
-41. (02:50:42) Enums 📅
-42. (02:55:08) Random numbers 🎲
-43. (02:58:23) Number guessing game 🔢
-44. (03:04:45) Quiz game 💯
-45. (03:14:09) Bitwise operators 🔣
-46. (03:20:55) Memory addresses 📬
-47. (03:27:56) Pointers 👉
-48. (03:35:59) Writing files ✍️
-49. (03:40:18) Reading files 🔎
-50. (03:44:51) Tic Tac Toe game ⭕
+The **Free C Programming Course** by **Bro Code** covers a variety of fundamental topics in C programming, from basic syntax to more complex data structures and algorithms. The course is accessible on YouTube and offers a step-by-step guide for beginners.
 
-## Repository Structure
+You can find the full course here:  
+[Watch on YouTube: Free C Programming Course by Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=9404s)
 
-For clarity and better organization, the exercises have been classified into chapters based on the topics covered in the course. Here's a brief overview of the structure:
+---
 
-```
+## ⏱️ **Course Time Stamps & Topics**
+
+This repository is organized by chapters that correspond to the key topics and exercises covered in the course. Below are the time stamps and topics as covered by the course:
+
+1. **(00:00:00)** C Tutorial for Beginners 🕹️  
+2. **(00:12:36)** Compile and Run a C Program with CMD 🏗️  
+
+This version enhances the readability, structure, and visual appeal of your `README.md`, while adding more context and information for future contributors or learners who explore your repository. Let me know if you'd like any additional changes or further customization!
+3. **(00:14:35)** Comments & Escape Sequences 💬  
+4. **(00:19:39)** Variables 💰  
+5. **(00:27:09)** Data Types 📊  
+6. **(00:38:16)** Format Specifiers 🔧  
+7. **(00:41:31)** Constants 🚫  
+8. **(00:42:43)** Arithmetic Operators ➗  
+9. **(00:46:15)** Augmented Assignment Operators 🧮  
+10. **(00:48:18)** User Input ⌨️  
+11. **(00:55:16)** Math Functions 📚  
+12. **(00:57:57)** Circle Circumference Program ⚪  
+13. **(01:00:46)** Hypotenuse Calculator Program 📐  
+14. **(01:02:40)** If Statements ✔️  
+15. **(01:06:46)** Switch Statements 🔽  
+16. **(01:10:25)** Temperature Conversion Program 🌡️  
+17. **(01:17:15)** Calculator Program 🖩  
+18. **(01:21:46)** AND Logical Operator `&&`  
+19. **(01:25:22)** OR Logical Operator `||`  
+20. **(01:27:22)** NOT Logical Operator `!`  
+21. **(01:29:16)** Functions 📞  
+22. **(01:31:53)** Arguments 📧  
+23. **(01:35:46)** Return Statement 🔙  
+24. **(01:38:27)** Ternary Operator ❓  
+25. **(01:41:20)** Function Prototypes 🤖  
+26. **(01:45:57)** String Functions 🔠  
+27. **(01:51:00)** For Loops 🔁  
+28. **(01:54:22)** While Loops ♾️  
+29. **(01:58:12)** Do While Loop 🤸‍♂️  
+30. **(02:01:35)** Nested Loops ➰  
+31. **(02:06:53)** Break vs Continue 🥊  
+32. **(02:09:14)** Arrays 🗃️  
+33. **(02:13:46)** Print an Array with Loop 🔃  
+34. **(02:18:26)** 2D Arrays ⬜  
+35. **(02:25:58)** Array of Strings 🧵  
+36. **(02:28:52)** Swap Values of Two Variables 🥤  
+37. **(02:32:45)** Sort an Array 💱  
+38. **(02:38:47)** Structs 🏠  
+39. **(02:42:58)** Typedef 📛  
+40. **(02:46:31)** Array of Structs 🏫  
+41. **(02:50:42)** Enums 📅  
+42. **(02:55:08)** Random Numbers 🎲  
+43. **(02:58:23)** Number Guessing Game 🔢  
+44. **(03:04:45)** Quiz Game 💯  
+45. **(03:14:09)** Bitwise Operators 🔣  
+46. **(03:20:55)** Memory Addresses 📬  
+47. **(03:27:56)** Pointers 👉  
+48. **(03:35:59)** Writing Files ✍️  
+49. **(03:40:18)** Reading Files 🔎  
+50. **(03:44:51)** Tic Tac Toe Game ⭕
+
+---
+
+## 🗂️ **Repository Structure**
+
+This repository is structured to reflect the chapters of the **C Programming Course**. Each chapter covers a specific set of exercises and topics, all aimed at reinforcing the foundational knowledge in C programming. Here's an overview of the repository layout:
+
+```bash
 .
 ├── Chapter1_Basics
 │   ├── hello_world.c
@@ -123,10 +138,38 @@ For clarity and better organization, the exercises have been classified into cha
 └── README.md
 ```
 
-## Contributions
+Each chapter and file aligns with the course structure, making it easy to follow along with the topics and exercises as they are presented.
 
-This repository is primarily for my own learning, but if you'd like to contribute, feel free to fork the repository and submit a pull request. Any improvements or additional exercises are welcome!
+---
 
-## Acknowledgements
+## 🔧 **Contributions**
 
-A big thank you to Bro Code for creating such an informative and accessible C programming course. Check out their YouTube channel for more great programming tutorials: [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ).
+This repository is primarily for my personal learning, but contributions are welcome! If you have suggestions for improvements or additional exercises, feel free to:
+
+- **Fork the Repository**: Make improvements or add exercises.
+- **Submit a Pull Request**: Share your contributions with me and the community.
+
+Let’s work together to improve our C programming skills!
+
+---
+
+## 🙌 **Acknowledgements**
+
+A big thank you to **Bro Code** for creating such an accessible and informative C programming course. I highly recommend checking out their channel for more free tutorials and programming resources:  
+[Bro Code YouTube Channel](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+
+---
+
+## 👨‍💻 **Author**
+
+**chrrodri**  
+_42 Barcelona_  
+[GitHub Profile](https://github.com/kitearuba)
+
+---
+
+## 🎉 **Final Thoughts**
+
+Thank you for visiting my **C Programming Exercises Repository**! I hope these exercises help you as much as they helped me in understanding the fundamentals of C programming. Feel free to explore, contribute, or use the code to strengthen your skills. Happy coding! 🚀
+
+---
